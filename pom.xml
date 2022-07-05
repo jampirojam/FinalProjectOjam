@@ -8,11 +8,11 @@
 		<version>2.4.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>si.ojam</groupId>
+	<groupId>id.jampirojam</groupId>
 	<artifactId>finalproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FinalProjectOjam</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Final Project Spring Boot - Bus Reservation for Hacktiv8 X BFI Finance</description>
 	
 	
 	<properties>
